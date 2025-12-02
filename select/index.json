@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "テン・フィート・トール",
+  "base_artist": "AFROJACK",
+  "createdAt": "2025-12-02T07:29:28.403398Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ten Feet Tall",
+      "artist": "アフロジャック",
+      "has_synced": false,
+      "path": "select/pl_01_Ten_Feet_Tall_アフロジャック.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Ten Feet Tall (feat. Wrabel)",
+      "artist": "アフロジャック",
+      "has_synced": false,
+      "path": "select/pl_02_Ten_Feet_Tall_(feat._Wrabel)_アフロジャック.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Ten Feet Tall",
+      "artist": "アフロジャック",
+      "has_synced": false,
+      "path": "select/pl_03_Ten_Feet_Tall_アフロジャック.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Ten Feet Tall (feat. Wrabel)",
+      "artist": "アフロジャック",
+      "has_synced": false,
+      "path": "select/pl_04_Ten_Feet_Tall_(feat._Wrabel)_アフロジャック.txt"
+    }
+  ]
+}
